@@ -14,7 +14,7 @@ Fadi Boutros
 
 | Method    | Backbone | Train data | Link |
 | -------- | ------- | ------- | ------- |
-| ViT   | <br>Small <br><br><br><br> Large <br><br>  | MS1MV2 <br> MS1MV3 <br> WebFace4M <br> | [Download]() <br> [Download]() <br> [Download]() <br>|
+| ViT   | Base | MS1MV2 <br> MS1MV3 <br> WebFace4M <br> | [Download]() <br> [Download]() <br> [Download]() <br>|
 
 ### Citation
 
