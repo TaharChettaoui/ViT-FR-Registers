@@ -7,9 +7,6 @@ Fadi Boutros
 
 [`Paper Link`](https://ieeexplore.ieee.org/abstract/document/11556970)
 
-
-## PyTorch implementation and pretrained models for **FRoundation**.
-
 ### Pretrained models
 
 | Method    | Backbone | Train data | Link |
